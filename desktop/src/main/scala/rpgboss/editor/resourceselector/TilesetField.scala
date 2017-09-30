@@ -51,7 +51,8 @@ class TilesetArrayField(
   })
 
   val btnDelete = new Button(Action(getMessage("Remove_Last")) {
-    fTilesets.updatePreserveSelection(fTilesets.listData.dropRight(1))
+    //fTilesets.updatePreserveSelection(fTilesets.listData.dropRight(1))
+    fTilesets.updatePreserveSelection(fTilesets.listData.filter(_ != fTilesets.selection))
   })
 
   row().grid().add(new ScrollPane {
