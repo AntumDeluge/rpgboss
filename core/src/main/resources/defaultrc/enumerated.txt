@@ -673,6 +673,8 @@ spriteset/sys/vx_chara07_a.png
 spriteset/sys/vx_chara07_b.png
 spriteset/sys/vx_chara07_c.png
 spriteset/sys/vx_chara08_a.png
+tileset/sys/LPC/ship.png
+tileset/sys/LPC/ship.png.metadata.json
 tileset/sys/magecity-1.png
 tileset/sys/magecity-1.png.metadata.json
 tileset/sys/magecity-2.png
