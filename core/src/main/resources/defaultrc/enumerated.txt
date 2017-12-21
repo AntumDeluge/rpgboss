@@ -683,5 +683,17 @@ tileset/sys/Refmap-TileD.png
 tileset/sys/Refmap-TileD.png.metadata.json
 tileset/sys/Refmap-TileE.png
 tileset/sys/Refmap-TileE.png.metadata.json
+tileset/sys/stone_ground-red.png
+tileset/sys/stone_ground-red.png.metadata.json
+tileset/sys/stone_ground.png
+tileset/sys/stone_ground.png.metadata.json
+tileset/sys/stone_stairs-red.png
+tileset/sys/stone_stairs-red.png.metadata.json
+tileset/sys/stone_stairs.png
+tileset/sys/stone_stairs.png.metadata.json
+tileset/sys/stone_wall-red.png
+tileset/sys/stone_wall-red.png.metadata.json
+tileset/sys/stone_wall.png
+tileset/sys/stone_wall.png.metadata.json
 windowskin/sys/LastPhantasm.png
 windowskin/sys/LastPhantasmScanlines.png
