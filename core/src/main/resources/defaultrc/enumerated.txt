@@ -673,6 +673,8 @@ spriteset/sys/vx_chara07_a.png
 spriteset/sys/vx_chara07_b.png
 spriteset/sys/vx_chara07_c.png
 spriteset/sys/vx_chara08_a.png
+tileset/sys/CC0/barrels.png
+tileset/sys/CC0/barrels.png.metadata.json
 tileset/sys/CC0/magecity-1.png
 tileset/sys/CC0/magecity-1.png.metadata.json
 tileset/sys/CC0/magecity-2.png

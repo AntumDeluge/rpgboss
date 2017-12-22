@@ -1,3 +1,7 @@
+Barrels Rework (CC0):
+- By Hyptosis & Jordan Irwin (AntumDeluge)
+- https://opengameart.org/node/79172
+
 LPC Wooden Ship (CC BY-SA 3.0 / GPL 2.0)
 - By Tuomo Untinen (Reemax)
 - https://opengameart.org/node/38270
@@ -14,6 +18,6 @@ trees-000 (CC0)
 - By Carl Olsson (surt)
 - https://opengameart.org/node/15082
 
-wooden bench (CC0)
+Wooden Bench (CC0)
 - By Hyptosis & Jordan Irwin (AntumDeluge)
 - https://opengameart.org/node/79117
