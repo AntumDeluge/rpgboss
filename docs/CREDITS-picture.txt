@@ -5,3 +5,7 @@ Cave (CC0)
 Mountain Background (CC BY 3.0/4.0)
 - By FunwithPixels
 - https://opengameart.org/node/79916
+
+Underwater Background (CC BY 3.0)
+- By Alucard
+- https://opengameart.org/node/64077
