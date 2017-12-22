@@ -574,6 +574,8 @@ music/sys/sean_m_stephens/World2.mid
 music/sys/sean_m_stephens/World3.mid
 music/sys/weather/rain.ogg
 picture/sys/cave.png
+picture/sys/clouds-1.png
+picture/sys/clouds-2.png
 picture/sys/dark_star.png
 picture/sys/GameOver.png
 picture/sys/glowing_orb.png
