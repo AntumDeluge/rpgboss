@@ -582,6 +582,7 @@ picture/sys/LordSpirit.jpg
 picture/sys/mountains.png
 picture/sys/parallax-forest.png
 picture/sys/splash.jpg
+picture/sys/stariea.png
 picture/sys/underwater.png
 picture/sys/weather/rain/0180.png
 picture/sys/weather/rain/0181.png
