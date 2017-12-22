@@ -2,6 +2,10 @@ Cave (CC0)
 - By jwiese
 - https://opengameart.org/node/73297
 
+Dark Star Background (CC BY-SA 3.0 / GPL 2.0)
+- By MikeeUSA
+- https://opengameart.org/node/31600
+
 Glowing Orb Background (CC BY-SA 3.0)
 - By p0ss
 - https://opengameart.org/node/5120
