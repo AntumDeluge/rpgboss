@@ -679,6 +679,10 @@ tileset/sys/CC0/magecity-2.png
 tileset/sys/CC0/magecity-2.png.metadata.json
 tileset/sys/CC0/trees-000.png
 tileset/sys/CC0/trees-000.png.metadata.json
+tileset/sys/CC0/wooden_bench-white.png
+tileset/sys/CC0/wooden_bench-white.png.metadata.json
+tileset/sys/CC0/wooden_bench.png
+tileset/sys/CC0/wooden_bench.png.metadata.json
 tileset/sys/LPC/ship.png
 tileset/sys/LPC/ship.png.metadata.json
 tileset/sys/Refmap-TileA5.png

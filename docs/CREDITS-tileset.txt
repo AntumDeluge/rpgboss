@@ -13,3 +13,7 @@ Stone Terrain (OGA BY 3.0):
 trees-000 (CC0)
 - By Carl Olsson (surt)
 - https://opengameart.org/node/15082
+
+wooden bench (CC0)
+- By Hyptosis & Jordan Irwin (AntumDeluge)
+- https://opengameart.org/node/79117
