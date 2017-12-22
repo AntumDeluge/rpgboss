@@ -21,3 +21,7 @@ trees-000 (CC0)
 Wooden Bench (CC0)
 - By Hyptosis & Jordan Irwin (AntumDeluge)
 - https://opengameart.org/node/79117
+
+Wooden Stairs NS (OGA BY 3.0)
+- By Jordan Irwin (AntumDeluge)
+- https://opengameart.org/node/79115
