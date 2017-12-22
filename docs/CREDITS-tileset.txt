@@ -10,6 +10,10 @@ Mage City Arcanos (CC0):
 - By Hyptosis
 - https://opengameart.org/node/11192
 
+Rope Ladder (OGA BY 3.0)
+- By Jordan Irwin (AntumDeluge)
+- https://opengameart.org/node/79116
+
 Stone Terrain (OGA BY 3.0):
 - By Jordan Irwin (AntumDeluge)
 - https://opengameart.org/node/79141

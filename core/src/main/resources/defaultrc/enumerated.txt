@@ -697,6 +697,8 @@ tileset/sys/Refmap-TileD.png
 tileset/sys/Refmap-TileD.png.metadata.json
 tileset/sys/Refmap-TileE.png
 tileset/sys/Refmap-TileE.png.metadata.json
+tileset/sys/rope_ladder.png
+tileset/sys/rope_ladder.png.metadata.json
 tileset/sys/stone_ground-red.png
 tileset/sys/stone_ground-red.png.metadata.json
 tileset/sys/stone_ground.png
