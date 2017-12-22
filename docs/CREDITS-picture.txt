@@ -2,6 +2,10 @@ Cave (CC0)
 - By jwiese
 - https://opengameart.org/node/73297
 
+Glowing Orb Background (CC BY-SA 3.0)
+- By p0ss
+- https://opengameart.org/node/5120
+
 Mountain Background (CC BY 3.0/4.0)
 - By FunwithPixels
 - https://opengameart.org/node/79916
