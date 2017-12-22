@@ -2,6 +2,10 @@ Cave (CC0)
 - By jwiese
 - https://opengameart.org/node/73297
 
+Castle Gate (GPL 2.0)
+- By Q_x
+- https://opengameart.org/node/26460
+
 Clouds 1 & Clouds 2 backgrounds (CC BY 3.0)
 - By Ciera Hoover (PumpkinGlitters)
 - https://opengameart.org/node/28984
