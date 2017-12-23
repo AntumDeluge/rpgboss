@@ -579,6 +579,7 @@ picture/sys/cave.png
 picture/sys/forest_scene-city-full.png
 picture/sys/forest_scene-full.png
 picture/sys/GameOver.png
+picture/sys/Gariot/simple_city_silhouette_with_clouds.png
 picture/sys/icon.png
 picture/sys/LordSpirit.jpg
 picture/sys/MikeeUSA/dark_star.png
