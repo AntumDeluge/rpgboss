@@ -739,6 +739,8 @@ spriteset/sys/$vx_chara09_c.png
 spriteset/sys/$vx_chara09_d.png
 spriteset/sys/$vx_chara09_e.png
 spriteset/sys/$vx_chara09_f.png
+spriteset/sys/Cabbit/Lyuba.png
+spriteset/sys/Cabbit/Yan.png
 spriteset/sys/oga_vehicles.png
 spriteset/sys/vx_chara01_a.png
 spriteset/sys/vx_chara01_b.png
