@@ -582,10 +582,10 @@ picture/sys/dark_star.png
 picture/sys/forest_scene-city-full.png
 picture/sys/forest_scene-full.png
 picture/sys/GameOver.png
-picture/sys/glowing_orb.png
 picture/sys/icon.png
 picture/sys/LordSpirit.jpg
 picture/sys/mountains.png
+picture/sys/p0ss/glowing_orb.png
 picture/sys/p0ss/snowy_mountains.png
 picture/sys/parallax-forest.png
 picture/sys/pyramid.jpg
