@@ -642,7 +642,6 @@ picture/sys/Nila122/doors-800x600.png
 picture/sys/ocean-KnoblePersona.png
 picture/sys/p0ss/glowing_orb.png
 picture/sys/p0ss/snowy_mountains.png
-picture/sys/parallax-forest.png
 picture/sys/PumpkinGlitters/clouds-1.png
 picture/sys/PumpkinGlitters/clouds-2.png
 picture/sys/PumpkinGlitters/underwater_mountains.png
