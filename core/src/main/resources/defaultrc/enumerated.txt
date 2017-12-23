@@ -576,6 +576,8 @@ music/sys/weather/rain.ogg
 picture/sys/beach.png
 picture/sys/castle_gate.png
 picture/sys/cave.png
+picture/sys/chasersgaming/sky-sunset.png
+picture/sys/chasersgaming/sky.png
 picture/sys/forest_scene-city-full.png
 picture/sys/forest_scene-full.png
 picture/sys/GameOver.png
