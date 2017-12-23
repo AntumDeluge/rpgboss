@@ -574,7 +574,6 @@ music/sys/sean_m_stephens/World2.mid
 music/sys/sean_m_stephens/World3.mid
 music/sys/weather/rain.ogg
 picture/sys/beach.png
-picture/sys/castle_gate.png
 picture/sys/cave.png
 picture/sys/chasersgaming/sky-sunset.png
 picture/sys/chasersgaming/sky.png
@@ -613,6 +612,7 @@ picture/sys/PumpkinGlitters/clouds-1.png
 picture/sys/PumpkinGlitters/clouds-2.png
 picture/sys/PumpkinGlitters/underwater_mountains.png
 picture/sys/pyramid.jpg
+picture/sys/Q_x/castle_gate.png
 picture/sys/rrcaseyr/hills_and_moon-center.png
 picture/sys/rrcaseyr/hills_and_moon-left.png
 picture/sys/Scribe/background_scene.png
