@@ -580,6 +580,7 @@ picture/sys/ansimuz/industrial.png
 picture/sys/ansimuz/mountain_at_dusk.png
 picture/sys/ansimuz/space.png
 picture/sys/ansimuz/urban_landscape.png
+picture/sys/bart/pyramid.jpg
 picture/sys/beach.png
 picture/sys/castle_in_the_dark-tamashihoshi.gif
 picture/sys/cave.png
@@ -624,7 +625,6 @@ picture/sys/parallax-forest.png
 picture/sys/PumpkinGlitters/clouds-1.png
 picture/sys/PumpkinGlitters/clouds-2.png
 picture/sys/PumpkinGlitters/underwater_mountains.png
-picture/sys/pyramid.jpg
 picture/sys/Q_x/castle_gate.png
 picture/sys/Q_x/guardian_tree-black.png
 picture/sys/Q_x/guardian_tree-bright.png
