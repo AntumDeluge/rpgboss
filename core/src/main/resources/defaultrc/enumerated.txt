@@ -585,9 +585,9 @@ picture/sys/bart/pyramid.jpg
 picture/sys/bart/red_planet-1.png
 picture/sys/bart/red_planet-2.png
 picture/sys/bart/sky.png
-picture/sys/beach.png
+picture/sys/beach-tgfcoder.png
 picture/sys/castle_in_the_dark-tamashihoshi.gif
-picture/sys/cave.png
+picture/sys/cave-jwiese.png
 picture/sys/chasersgaming/sky-sunset.png
 picture/sys/chasersgaming/sky.png
 picture/sys/craftpix.net/beach-1.png
@@ -620,7 +620,7 @@ picture/sys/MikeeUSA/ipaddum.png
 picture/sys/MikeeUSA/novatoruim_red_planet.png
 picture/sys/MikeeUSA/stariea.png
 picture/sys/MikeeUSA/sun_nova.png
-picture/sys/mountains.png
+picture/sys/mountains-FunwithPixels.png
 picture/sys/night_forest-AhNinniah.png
 picture/sys/Nila122/doors-1024x768.png
 picture/sys/Nila122/doors-800x600.png
@@ -643,7 +643,7 @@ picture/sys/Scribe/underwater_scene.png
 picture/sys/splash.jpg
 picture/sys/trulio/forest_and_grave.png
 picture/sys/trulio/village_in_the_valley.png
-picture/sys/underwater.png
+picture/sys/underwater-Alucard.png
 picture/sys/weather/rain/0180.png
 picture/sys/weather/rain/0181.png
 picture/sys/weather/rain/0182.png
@@ -670,7 +670,7 @@ picture/sys/weather/snow/0189.png
 picture/sys/weather/snow/0190.png
 picture/sys/weather/snow/0191.png
 picture/sys/weather/snow/0192.png
-picture/sys/where_imagination_begins.jpg
+picture/sys/where_imagination_begins-TKZ_Productions.jpg
 picture/sys/William.Thompsonj/kujasa-light.jpg
 picture/sys/William.Thompsonj/kujasa.jpg
 script/sys/globals.js
