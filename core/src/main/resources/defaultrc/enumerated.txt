@@ -669,6 +669,8 @@ picture/sys/weather/snow/0190.png
 picture/sys/weather/snow/0191.png
 picture/sys/weather/snow/0192.png
 picture/sys/where_imagination_begins.jpg
+picture/sys/William.Thompsonj/kujasa-light.jpg
+picture/sys/William.Thompsonj/kujasa.jpg
 script/sys/globals.js
 script/sys/menu.js
 script/sys/start.js
