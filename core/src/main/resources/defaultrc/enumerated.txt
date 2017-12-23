@@ -589,6 +589,7 @@ picture/sys/LordSpirit.jpg
 picture/sys/MikeeUSA/dark_star.png
 picture/sys/MikeeUSA/stariea.png
 picture/sys/mountains.png
+picture/sys/night_forest-AhNinniah.png
 picture/sys/Nila122/doors-1024x768.png
 picture/sys/Nila122/doors-800x600.png
 picture/sys/p0ss/glowing_orb.png
