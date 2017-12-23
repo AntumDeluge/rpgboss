@@ -588,6 +588,7 @@ picture/sys/craftpix.net/mountains-1.png
 picture/sys/craftpix.net/mountains-2.png
 picture/sys/darklighter_designs/map-olde.png
 picture/sys/darklighter_designs/map.png
+picture/sys/Game_Developer_Studio/underwater.png
 picture/sys/GameOver.png
 picture/sys/Gariot/simple_city_silhouette_with_clouds.png
 picture/sys/icon.png

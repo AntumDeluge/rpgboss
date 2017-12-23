@@ -76,5 +76,8 @@ By p0ss:
 By Q_x:
 - Castle Gate (GPL 2.0): https://opengameart.org/node/26460
 
+By Robert Brooks (Game Developer Studio):
+- Underwater (CC BY 3.0): https://opengameart.org/node/41656
+
 By tgfcoder:
 - Beach (CC0): https://opengameart.org/node/32122
