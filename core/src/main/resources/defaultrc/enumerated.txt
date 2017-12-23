@@ -600,6 +600,8 @@ picture/sys/PumpkinGlitters/underwater_mountains.png
 picture/sys/pyramid.jpg
 picture/sys/rrcaseyr/hills_and_moon-center.png
 picture/sys/rrcaseyr/hills_and_moon-left.png
+picture/sys/Scribe/background_scene.png
+picture/sys/Scribe/underwater_scene.png
 picture/sys/splash.jpg
 picture/sys/trulio/forest_and_grave.png
 picture/sys/trulio/village_in_the_valley.png
