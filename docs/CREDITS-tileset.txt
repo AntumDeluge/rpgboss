@@ -1,31 +1,17 @@
-Barrels Rework (CC0):
-- By Hyptosis & Jordan Irwin (AntumDeluge)
-- https://opengameart.org/node/79172
+By Carl Olsson (surt):
+- trees-000 (CC0): https://opengameart.org/node/15082
 
-LPC Wooden Ship (CC BY-SA 3.0 / GPL 2.0)
-- By Tuomo Untinen (Reemax)
-- https://opengameart.org/node/38270
+By Hyptosis:
+- Mage City Arcanos (CC0): https://opengameart.org/node/11192
 
-Mage City Arcanos (CC0):
-- By Hyptosis
-- https://opengameart.org/node/11192
+By Hyptosis & Jordan Irwin (AntumDeluge):
+- Barrels Rework (CC0): https://opengameart.org/node/79172
+- Wooden Bench (CC0): https://opengameart.org/node/79117
 
-Rope Ladder (OGA BY 3.0)
-- By Jordan Irwin (AntumDeluge)
-- https://opengameart.org/node/79116
+By Jordan Irwin (AntumDeluge):
+- Rope Ladder (OGA BY 3.0): https://opengameart.org/node/79116
+- Stone Terrain (OGA BY 3.0): https://opengameart.org/node/79141
+- Wooden Stairs NS (OGA BY 3.0): https://opengameart.org/node/79115
 
-Stone Terrain (OGA BY 3.0):
-- By Jordan Irwin (AntumDeluge)
-- https://opengameart.org/node/79141
-
-trees-000 (CC0)
-- By Carl Olsson (surt)
-- https://opengameart.org/node/15082
-
-Wooden Bench (CC0)
-- By Hyptosis & Jordan Irwin (AntumDeluge)
-- https://opengameart.org/node/79117
-
-Wooden Stairs NS (OGA BY 3.0)
-- By Jordan Irwin (AntumDeluge)
-- https://opengameart.org/node/79115
+By Tuomo Untinen (Reemax):
+- LPC Wooden Ship (CC BY-SA 3.0 / GPL 2.0): https://opengameart.org/node/38270

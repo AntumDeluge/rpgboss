@@ -1,56 +1,39 @@
+By Alucard:
+- Underwater (CC BY 3.0): https://opengameart.org/node/64077
+
+By Bart Kelsey:
+- Pyramid (CC BY-SA 3.0 / GPL 3.0/2.0): https://opengameart.org/node/2776
+
+By Casey Robertson (rrcaseyr):
+- Hills and Moon (CC BY-SA 3.0): https://opengameart.org/node/66603
+
+By Ciera Hoover (PumpkinGlitters):
+- Clouds 1 (CC BY 3.0): https://opengameart.org/node/28984
+- Clouds 2 (CC BY 3.0): https://opengameart.org/node/28986
+- Underwater Mountains (CC BY 3.0): https://opengameart.org/node/28985
+
+By FunwithPixels:
+- Mountain (CC BY 3.0/4.0): https://opengameart.org/node/79916
+
+By jwiese:
+- Cave (CC0): https://opengameart.org/node/73297
+
+By Kevin Smith (TKZ Productions):
+- Where Imagination Begins (CC BY 3.0 / CC BY-SA 3.0): https://opengameart.org/node/50375
+
+By Markeus (Ironthunder):
+- Forest Scene (CC BY 4.0): https://opengameart.org/node/76020
+
+By MikeeUSA:
+- Dark Star (CC BY-SA 3.0 / GPL 2.0): https://opengameart.org/node/31600
+- Stariea (CC BY-SA 3.0 / GPL 2.0): https://opengameart.org/node/31615
+
 By p0ss:
 - Snowy Mountains (CC BY-SA 3.0): https://opengameart.org/node/40419
-- Glowing Org (CC BY-SA 3.0): https://opengameart.org/node/5120
+- Glowing Orb (CC BY-SA 3.0): https://opengameart.org/node/5120
 
-Beach (CC0):
-- By tgfcoder
-- https://opengameart.org/node/32122
+By Q_x:
+- Castle Gate (GPL 2.0): https://opengameart.org/node/26460
 
-Cave (CC0)
-- By jwiese
-- https://opengameart.org/node/73297
-
-Castle Gate (GPL 2.0)
-- By Q_x
-- https://opengameart.org/node/26460
-
-Clouds 1 & Clouds 2 backgrounds (CC BY 3.0)
-- By Ciera Hoover (PumpkinGlitters)
-- https://opengameart.org/node/28984
-- https://opengameart.org/node/28986
-
-Dark Star Background (CC BY-SA 3.0 / GPL 2.0)
-- By MikeeUSA
-- https://opengameart.org/node/31600
-
-Forest Scene (CC BY 4.0)
-- By Markeus (Ironthunder)
-- https://opengameart.org/node/76020
-
-Hills and Moon (CC BY-SA 3.0)
-- By Casey Robertson (rrcaseyr)
-- https://opengameart.org/node/66603
-
-Mountain Background (CC BY 3.0/4.0)
-- By FunwithPixels
-- https://opengameart.org/node/79916
-
-Pyramid background (CC BY-SA 3.0 / GPL 3.0/2.0)
-- By Bart Kelsey
-- https://opengameart.org/node/2776
-
-Stariea (CC BY-SA 3.0 / GPL 2.0)
-- By MikeeUSA
-- https://opengameart.org/node/31615
-
-Underwater (CC BY 3.0)
-- By Alucard
-- https://opengameart.org/node/64077
-
-Underwater Mountains (CC BY 3.0)
-- By Ciera Hoover (PumpkinGlitters)
-- https://opengameart.org/node/28985
-
-Where Imagination Begins (CC BY 3.0 / CC BY-SA 3.0)
-- By Kevin Smith (TKZ Productions)
-- https://opengameart.org/node/50375
+By tgfcoder:
+- Beach (CC0): https://opengameart.org/node/32122
