@@ -578,12 +578,13 @@ picture/sys/castle_gate.png
 picture/sys/cave.png
 picture/sys/clouds-1.png
 picture/sys/clouds-2.png
-picture/sys/dark_star.png
 picture/sys/forest_scene-city-full.png
 picture/sys/forest_scene-full.png
 picture/sys/GameOver.png
 picture/sys/icon.png
 picture/sys/LordSpirit.jpg
+picture/sys/MikeeUSA/dark_star.png
+picture/sys/MikeeUSA/stariea.png
 picture/sys/mountains.png
 picture/sys/p0ss/glowing_orb.png
 picture/sys/p0ss/snowy_mountains.png
@@ -592,7 +593,6 @@ picture/sys/pyramid.jpg
 picture/sys/rrcaseyr/hills_and_moon-center.png
 picture/sys/rrcaseyr/hills_and_moon-left.png
 picture/sys/splash.jpg
-picture/sys/stariea.png
 picture/sys/underwater.png
 picture/sys/underwater_mountains.png
 picture/sys/weather/rain/0180.png
