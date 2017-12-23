@@ -332,6 +332,8 @@ autotile/sys/Refmap-A4-5-6.png
 autotile/sys/Refmap-A4-5-6.png.metadata.json
 autotile/sys/Refmap-A4-5-7.png
 autotile/sys/Refmap-A4-5-7.png.metadata.json
+battlebg/sys/acasas/abandon_city.png
+battlebg/sys/acasas/city.png
 battlebg/sys/ansimuz/hazy_hills-x4.png
 battlebg/sys/ansimuz/hazy_hills.png
 battlebg/sys/Crownlesswish/crownlesswish_rrr.jpg
