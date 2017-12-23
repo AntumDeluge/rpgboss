@@ -573,6 +573,13 @@ music/sys/sean_m_stephens/World1.mid
 music/sys/sean_m_stephens/World2.mid
 music/sys/sean_m_stephens/World3.mid
 music/sys/weather/rain.ogg
+picture/sys/ansimuz/bulkhead_walls_hangar-x3.png
+picture/sys/ansimuz/bulkhead_walls_hangar.png
+picture/sys/ansimuz/forest.png
+picture/sys/ansimuz/industrial.png
+picture/sys/ansimuz/mountain_at_dusk.png
+picture/sys/ansimuz/space.png
+picture/sys/ansimuz/urban_landscape.png
 picture/sys/beach.png
 picture/sys/cave.png
 picture/sys/chasersgaming/sky-sunset.png

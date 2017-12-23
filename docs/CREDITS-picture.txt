@@ -59,6 +59,14 @@ By Kevin Smith (TKZ Productions):
 By KnoblePersona:
 - Ocean (CC BY 3.0): https://opengameart.org/node/68470
 
+By Luis Zuno (ansimuz):
+- Bulkhead Walls Hangar (CC0): https://opengameart.org/node/45854
+- Forest (CC0): https://opengameart.org/node/35007
+- Industrial (CC0): https://opengameart.org/node/35829
+- Mountain at Dusk (CC0): https://opengameart.org/node/36095
+- Space (CC0): https://opengameart.org/node/38256
+- Urban Landscape (CC0): https://opengameart.org/node/50370
+
 By Markeus (Ironthunder):
 - Forest Scene (CC BY 4.0): https://opengameart.org/node/76020
 
