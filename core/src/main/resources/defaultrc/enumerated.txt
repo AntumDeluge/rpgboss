@@ -336,6 +336,7 @@ battlebg/sys/acasas/abandon_city.png
 battlebg/sys/acasas/city.png
 battlebg/sys/ansimuz/hazy_hills-x4.png
 battlebg/sys/ansimuz/hazy_hills.png
+battlebg/sys/arctic_landscape-Delfos.png
 battlebg/sys/Crownlesswish/crownlesswish_rrr.jpg
 battlebg/sys/Etolier/01sougen.jpg
 battlebg/sys/Etolier/02doukutsu.jpg
