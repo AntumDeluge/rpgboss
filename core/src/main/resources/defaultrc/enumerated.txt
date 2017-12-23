@@ -584,6 +584,7 @@ picture/sys/icon.png
 picture/sys/LordSpirit.jpg
 picture/sys/mountains.png
 picture/sys/parallax-forest.png
+picture/sys/pyramid.jpg
 picture/sys/splash.jpg
 picture/sys/stariea.png
 picture/sys/underwater.png
