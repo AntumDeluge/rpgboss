@@ -578,6 +578,14 @@ picture/sys/castle_gate.png
 picture/sys/cave.png
 picture/sys/chasersgaming/sky-sunset.png
 picture/sys/chasersgaming/sky.png
+picture/sys/craftpix.net/beach-1.png
+picture/sys/craftpix.net/beach-2.png
+picture/sys/craftpix.net/beach-3.png
+picture/sys/craftpix.net/beach-4.png
+picture/sys/craftpix.net/forest-mountains.png
+picture/sys/craftpix.net/lake-mountains.png
+picture/sys/craftpix.net/mountains-1.png
+picture/sys/craftpix.net/mountains-2.png
 picture/sys/forest_scene-city-full.png
 picture/sys/forest_scene-full.png
 picture/sys/GameOver.png
