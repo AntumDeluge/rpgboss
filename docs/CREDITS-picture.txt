@@ -75,6 +75,7 @@ By p0ss:
 
 By Q_x:
 - Castle Gate (GPL 2.0): https://opengameart.org/node/26460
+- Guardian Tree (GPL 2.0/3.0): https://opengameart.org/node/26215
 - Petrified Hand (GPL 2.0/3.0): https://opengameart.org/node/29298
 
 By Robert Brooks (Game Developer Studio):

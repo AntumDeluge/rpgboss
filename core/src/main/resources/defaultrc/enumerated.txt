@@ -613,6 +613,9 @@ picture/sys/PumpkinGlitters/clouds-2.png
 picture/sys/PumpkinGlitters/underwater_mountains.png
 picture/sys/pyramid.jpg
 picture/sys/Q_x/castle_gate.png
+picture/sys/Q_x/guardian_tree-black.png
+picture/sys/Q_x/guardian_tree-bright.png
+picture/sys/Q_x/guardian_tree-dark.png
 picture/sys/Q_x/petrified_hand.png
 picture/sys/rrcaseyr/hills_and_moon-center.png
 picture/sys/rrcaseyr/hills_and_moon-left.png
