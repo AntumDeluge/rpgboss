@@ -96,5 +96,8 @@ By Q_x:
 By Robert Brooks (Game Developer Studio):
 - Underwater (CC BY 3.0): https://opengameart.org/node/41656
 
+By tamashihoshi:
+- Castle in the Dark (CC BY 3.0): https://opengameart.org/node/71974
+
 By tgfcoder:
 - Beach (CC0): https://opengameart.org/node/32122
