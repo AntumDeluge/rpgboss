@@ -586,6 +586,7 @@ picture/sys/glowing_orb.png
 picture/sys/icon.png
 picture/sys/LordSpirit.jpg
 picture/sys/mountains.png
+picture/sys/p0ss/snowy_mountains.png
 picture/sys/parallax-forest.png
 picture/sys/pyramid.jpg
 picture/sys/rrcaseyr/hills_and_moon-center.png
