@@ -40,7 +40,7 @@ By Frank Smit (FSX aka 61924):
 - Planet9 (CC BY-SA 3.0): https://opengameart.org/node/2162
 
 By FunwithPixels:
-- Mountain (CC BY 3.0/4.0): https://opengameart.org/node/79916
+- Mountains (CC BY 3.0/4.0): https://opengameart.org/node/79916
 
 By Gariot:
 - Simple City Silhouette with Clouds (CC BY 3.0): https://opengameart.org/node/77198
