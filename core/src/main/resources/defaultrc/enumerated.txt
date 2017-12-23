@@ -578,6 +578,8 @@ picture/sys/cave.png
 picture/sys/clouds-1.png
 picture/sys/clouds-2.png
 picture/sys/dark_star.png
+picture/sys/forest_scene-city-full.png
+picture/sys/forest_scene-full.png
 picture/sys/GameOver.png
 picture/sys/glowing_orb.png
 picture/sys/icon.png
