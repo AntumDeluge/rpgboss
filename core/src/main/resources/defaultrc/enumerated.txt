@@ -586,11 +586,11 @@ picture/sys/craftpix.net/forest-mountains.png
 picture/sys/craftpix.net/lake-mountains.png
 picture/sys/craftpix.net/mountains-1.png
 picture/sys/craftpix.net/mountains-2.png
-picture/sys/forest_scene-city-full.png
-picture/sys/forest_scene-full.png
 picture/sys/GameOver.png
 picture/sys/Gariot/simple_city_silhouette_with_clouds.png
 picture/sys/icon.png
+picture/sys/Ironthunder/forest_scene-city-full.png
+picture/sys/Ironthunder/forest_scene-full.png
 picture/sys/jkjkke/background-1.jpg
 picture/sys/jkjkke/background-2.jpg
 picture/sys/LordSpirit.jpg
