@@ -602,6 +602,7 @@ picture/sys/mountains.png
 picture/sys/night_forest-AhNinniah.png
 picture/sys/Nila122/doors-1024x768.png
 picture/sys/Nila122/doors-800x600.png
+picture/sys/ocean-KnoblePersona.png
 picture/sys/p0ss/glowing_orb.png
 picture/sys/p0ss/snowy_mountains.png
 picture/sys/parallax-forest.png
