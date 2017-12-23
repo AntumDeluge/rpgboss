@@ -580,7 +580,11 @@ picture/sys/ansimuz/industrial.png
 picture/sys/ansimuz/mountain_at_dusk.png
 picture/sys/ansimuz/space.png
 picture/sys/ansimuz/urban_landscape.png
+picture/sys/bart/meadow.jpg
 picture/sys/bart/pyramid.jpg
+picture/sys/bart/red_planet-1.png
+picture/sys/bart/red_planet-2.png
+picture/sys/bart/sky.png
 picture/sys/beach.png
 picture/sys/castle_in_the_dark-tamashihoshi.gif
 picture/sys/cave.png

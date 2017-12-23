@@ -2,7 +2,11 @@ By Alucard:
 - Underwater (CC BY 3.0): https://opengameart.org/node/64077
 
 By Bart Kelsey:
-- Pyramid (CC BY-SA 3.0 / GPL 3.0/2.0): https://opengameart.org/node/2776
+- Meadow (CC0): https://opengameart.org/node/4827
+- Pyramid (CC BY-SA 3.0 / GPL 2.0/3.0): https://opengameart.org/node/2776
+- Red Planet 1 (CC BY-SA 3.0 / GPL 2.0/3.0): https://opengameart.org/node/2270
+- Red Planet 2 (CC BY-SA 3.0 / GPL 2.0/3.0): https://opengameart.org/node/2271
+- Sky (CC BY 3.0 / CC BY-SA 3.0 / GPL 2.0/3.0): https://opengameart.org/node/5647
 
 By Casey Robertson (rrcaseyr):
 - Hills and Moon (CC BY-SA 3.0): https://opengameart.org/node/66603
