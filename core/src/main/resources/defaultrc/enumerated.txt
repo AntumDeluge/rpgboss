@@ -588,6 +588,8 @@ picture/sys/LordSpirit.jpg
 picture/sys/mountains.png
 picture/sys/parallax-forest.png
 picture/sys/pyramid.jpg
+picture/sys/rrcaseyr/hills_and_moon-center.png
+picture/sys/rrcaseyr/hills_and_moon-left.png
 picture/sys/splash.jpg
 picture/sys/stariea.png
 picture/sys/underwater.png
