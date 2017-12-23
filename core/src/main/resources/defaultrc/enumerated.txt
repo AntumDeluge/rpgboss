@@ -786,5 +786,6 @@ tileset/sys/stone_wall.png
 tileset/sys/stone_wall.png.metadata.json
 tileset/sys/wooden_stairs-ns.png
 tileset/sys/wooden_stairs-ns.png.metadata.json
+windowskin/sys/HUD-ansimuz.png
 windowskin/sys/LastPhantasm.png
 windowskin/sys/LastPhantasmScanlines.png
