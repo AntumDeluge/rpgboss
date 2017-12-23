@@ -588,6 +588,7 @@ picture/sys/pyramid.jpg
 picture/sys/splash.jpg
 picture/sys/stariea.png
 picture/sys/underwater.png
+picture/sys/underwater_mountains.png
 picture/sys/weather/rain/0180.png
 picture/sys/weather/rain/0181.png
 picture/sys/weather/rain/0182.png
