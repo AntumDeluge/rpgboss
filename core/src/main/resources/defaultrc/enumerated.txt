@@ -600,7 +600,11 @@ picture/sys/jkjkke/background-1.jpg
 picture/sys/jkjkke/background-2.jpg
 picture/sys/LordSpirit.jpg
 picture/sys/MikeeUSA/dark_star.png
+picture/sys/MikeeUSA/dueling_stars.png
+picture/sys/MikeeUSA/ipaddum.png
+picture/sys/MikeeUSA/novatoruim_red_planet.png
 picture/sys/MikeeUSA/stariea.png
+picture/sys/MikeeUSA/sun_nova.png
 picture/sys/mountains.png
 picture/sys/night_forest-AhNinniah.png
 picture/sys/Nila122/doors-1024x768.png
