@@ -97,9 +97,9 @@ class MainPanel(val topWin: Frame)
 
   def updateDirty(sm: StateMaster) = {
     if (sm.stateDirty) {
-      topWin.title = "rpgboss beta - %s*".format(sm.getProj.data.title)
+      topWin.title = "RPGBoss (Antum) - %s*".format(sm.getProj.data.title)
     } else {
-      topWin.title = "rpgboss beta - %s".format(sm.getProj.data.title)
+      topWin.title = "RPGBoss (Antum) - %s".format(sm.getProj.data.title)
     }
   }
 
