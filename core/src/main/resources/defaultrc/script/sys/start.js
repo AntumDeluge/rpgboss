@@ -13,7 +13,7 @@ function showStartDialog() {
           game.getMessage("Load Game"), 
           game.getMessage("Quit") ],
         game.layout(game.CENTERED(), game.FIXED(), 200, 130), {
-          justification : game.CENTER()
+          justification : game.LEFT()
         });
 
     var choiceIdx = choiceWin.getChoice();

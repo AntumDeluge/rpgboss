@@ -231,7 +231,7 @@ function itemsMenu() {
     },
     layout : game.layout(game.NORTHWEST(), game.SCREEN(), 1.0, 0.13),
     windowDetails : {
-      justification : game.CENTER(),
+      justification : game.LEFT(),
       columns : 2,
       allowCancel : true
     }
@@ -466,7 +466,7 @@ function menu() {
     },
     layout : game.layout(game.NORTHEAST(), game.SCREEN(), 0.2, 0.8),
     windowDetails : {
-      justification : game.CENTER(),
+      justification : game.LEFT(),
       allowCancel : true
     }
   });
