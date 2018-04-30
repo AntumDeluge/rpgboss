@@ -404,15 +404,5 @@ sound/sys/rpgboss-menu/MenuCancel.ogg
 sound/sys/rpgboss-menu/MenuCannot.ogg
 sound/sys/rpgboss-menu/MenuCursor.ogg
 sound/sys/rpgboss-menu/MenuSelect.ogg
-tileset/sys/Refmap-TileA5.png
-tileset/sys/Refmap-TileA5.png.metadata.json
-tileset/sys/Refmap-TileB.png
-tileset/sys/Refmap-TileB.png.metadata.json
-tileset/sys/Refmap-TileC.png
-tileset/sys/Refmap-TileC.png.metadata.json
-tileset/sys/Refmap-TileD.png
-tileset/sys/Refmap-TileD.png.metadata.json
-tileset/sys/Refmap-TileE.png
-tileset/sys/Refmap-TileE.png.metadata.json
 windowskin/sys/LastPhantasm.png
 windowskin/sys/LastPhantasmScanlines.png
