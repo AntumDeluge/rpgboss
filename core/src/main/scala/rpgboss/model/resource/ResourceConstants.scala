@@ -24,14 +24,9 @@ object ResourceConstants {
   def defaultBattleMusic =
     Some(SoundSpec("sys/sean_m_stephens/Battle1.mid"))
 
-  def defaultTilesets = Array(
-    "sys/Refmap-TileA5.png",
-    "sys/Refmap-TileB.png",
-    "sys/Refmap-TileC.png",
-    "sys/Refmap-TileD.png",
-    "sys/Refmap-TileE.png")
+  def defaultTilesets = Array[String]()
 
-  def defaultAutotiles = Array(
+  def defaultAutotiles = Array[String](
     "sys/Refmap-A1-0-0-A.png",
     "sys/Refmap-A1-0-0-B.png",
     "sys/Refmap-A1-0-1-A.png",

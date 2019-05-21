@@ -673,15 +673,5 @@ spriteset/sys/vx_chara07_a.png
 spriteset/sys/vx_chara07_b.png
 spriteset/sys/vx_chara07_c.png
 spriteset/sys/vx_chara08_a.png
-tileset/sys/Refmap-TileA5.png
-tileset/sys/Refmap-TileA5.png.metadata.json
-tileset/sys/Refmap-TileB.png
-tileset/sys/Refmap-TileB.png.metadata.json
-tileset/sys/Refmap-TileC.png
-tileset/sys/Refmap-TileC.png.metadata.json
-tileset/sys/Refmap-TileD.png
-tileset/sys/Refmap-TileD.png.metadata.json
-tileset/sys/Refmap-TileE.png
-tileset/sys/Refmap-TileE.png.metadata.json
 windowskin/sys/LastPhantasm.png
 windowskin/sys/LastPhantasmScanlines.png
