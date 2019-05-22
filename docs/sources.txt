@@ -12,6 +12,9 @@ PixelOperator*.ttf   Jayvee Enaguas (HarvettFox96); CC0; https://fontlibrary.org
 Seshat-Regular.ttf   Sora Sagano; CC0; https://fontlibrary.org/en/font/seshat-regular
 Vegur-Regular.ttf    Sora Sagano; CC0; https://fontlibrary.org/en/font/vegur
 
+### music/sys/weather/
+rain.ogg  Zepp2010; CC0; https://freesound.org/s/163264/
+
 ### picture/sys/
 desert.png     PWL; CC0; https://opengameart.org/node/67420
 game_over.*    LordNeo, Sora Sagano, Jordan Irwin (AntumDeluge); CC0; https://opengameart.org/node/97343
