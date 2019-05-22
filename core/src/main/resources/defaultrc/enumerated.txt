@@ -400,5 +400,5 @@ spriteset/sys/!object.png
 spriteset/sys/oga_vehicles.png
 spriteset/sys/the_revolution/$base-female.png
 spriteset/sys/the_revolution/$base-male.png
-windowskin/sys/LastPhantasm.png
-windowskin/sys/LastPhantasmScanlines.png
+windowskin/sys/turning_polyhedron_mod-scanlines.png
+windowskin/sys/turning_polyhedron_mod.png

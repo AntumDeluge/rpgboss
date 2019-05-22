@@ -46,7 +46,7 @@ object ResourceConstants {
     fullscreen = false,
     windowIcon = "sys/icon.png",
 
-    windowskin = "sys/LastPhantasmScanlines.png",
+    windowskin = "sys/turning_polyhedron_mod-scanlines.png",
     msgfont = "sys/Vegur-Regular.ttf",
     fontsize = 24,
 
