@@ -93,11 +93,13 @@ battler/sys/basilisk.png
 battler/sys/Benalene/firecreature.png
 battler/sys/Benalene/icecreature.png
 battler/sys/Blarumyrran/dragon10.png
-battler/sys/Blarumyrran/dragon8.png
 battler/sys/Buch/Overweightgnarl.png
 battler/sys/C+/Alien.png
 battler/sys/C+/Alien2.png
 battler/sys/C+/Alien3.png
+battler/sys/dragon08.png
+battler/sys/dragon09.png
+battler/sys/dragon10.png
 battler/sys/Godlesshenk/Bigrat.png
 battler/sys/Godlesshenk/Deadlyalienbug.png
 battler/sys/Godlesshenk/Gohomewithenemyhead.png

@@ -1599,7 +1599,7 @@
   {
     "name":"Dragon8",
     "battler":{
-      "name":"sys/Blarumyrran/dragon8.png",
+      "name":"sys/dragon08.png",
       "scale":1.0
     },
     "level":5,
