@@ -113,11 +113,6 @@ battler/sys/Junkie/slimesf.png
 battler/sys/Junkie/snake.png
 battler/sys/Junkie/wyvern.png
 battler/sys/Junkie/yasaijin.png
-battler/sys/JustinNichol/Charon.png
-battler/sys/JustinNichol/TheImp.png
-battler/sys/JustinNichol/TheKappa.png
-battler/sys/JustinNichol/TheKraken.png
-battler/sys/JustinNichol/TheWisp.png
 battler/sys/Katarzyna/goldenwyrm.png
 battler/sys/Katarzyna/impaler.png
 battler/sys/Katarzyna/magmaspawn.png
