@@ -37,7 +37,7 @@ object ResourceConstants {
     titleMusic =
       Some(SoundSpec("sys/sean_m_stephens/TitleMoon.mid")),
 
-    gameOverPic = "sys/GameOver.png",
+    gameOverPic = "sys/game_over.png",
     gameOverMusic =
       Some(SoundSpec("sys/aaron_mcdonald/Macbeth - Cue 2.mid")),
 
