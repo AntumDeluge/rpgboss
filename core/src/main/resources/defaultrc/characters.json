@@ -1,11 +1,11 @@
 [
   {
-    "name":"Evandrus",
+    "name":"Player",
     "subtitle":"Adventurer",
-    "description":"An ordinary boy thrust into extraordinary circumstances.",
+    "description":"An ordinary person thrust into extraordinary circumstances.",
     "sprite":{
-      "name":"sys/vx_chara01_a.png",
-      "spriteIndex":4,
+      "name":"sys/the_revolution/$base-male.png",
+      "spriteIndex":0,
       "dir":0,
       "step":1
     },
