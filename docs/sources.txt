@@ -3,16 +3,32 @@
 ### autotile/sys/
 autotile-1.*  g4mersylver; CC0; https://opengameart.org/node/63481
 
-battlebg/sys/Nidhoggn/
+### battlebg/sys/Nidhoggn/
 *  Gabriel de Aguiar (Nidhoggn); CC0; https://opengameart.org/node/79322
 
-battler/sys/
+### battler/sys/
 basilisk.png      Blarumyrran; CC0: https://opengameart.org/node/3367
 blob.png          rvros; CC0; https://opengameart.org/node/81833
 dragon0*.png      Blarumyrran; CC0; https://opengameart.org/node/11988
 flameminion*.png  Carl Olsson (Surt); CC0; https://opengameart.org/node/13094
 lacriatura.png    OCAL; CC0; http://www.clker.com/clipart-demon.html
 mushroom.png      OCAL; CC0; http://www.clker.com/clipart-26488.html
+
+### battler/sys/MrBeast/
+dragon9.png  MrBeast; CC BY 3.0; https://opengameart.org/node/13959
+
+### battler/sys/Redshrike/
+dragon1.png  Stephen Challener (Redshrike); CC BY 3.0; https://opengameart.org/node/13959
+dragon2.png  Stephen Challener (Redshrike); CC BY 3.0; https://opengameart.org/node/13959
+dragon3.png  Stephen Challener (Redshrike); CC BY 3.0; https://opengameart.org/node/13959
+dragon4.png  Stephen Challener (Redshrike); CC BY 3.0; https://opengameart.org/node/13959
+dragon5.png  Stephen Challener (Redshrike); CC BY 3.0; https://opengameart.org/node/13959
+
+### battler/sys/Sharm/
+dragon11.png  Lanea Zimmerman (Sharm); CC BY 3.0; https://opengameart.org/node/13959
+
+### battler/sys/Zabin/
+dragon7.png  Carl Olsson (Surt), Zachariah Husiar (Zabin); CC BY 3.0; https://opengameart.org/node/13959
 
 ### faceset/sys/cabbit/
 base.*  Svetlana Kushnariova (Cabbit), Diamonddmgirl; CC0; https://opengameart.org/node/24944, https://opengameart.org/node/67861
