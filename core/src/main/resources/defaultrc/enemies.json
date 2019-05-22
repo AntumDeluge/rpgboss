@@ -1484,7 +1484,7 @@
   {
     "name":"Dragon11",
     "battler":{
-      "name":"sys/Sharm/dragon11.png",
+      "name":"sys/dragon11.png",
       "scale":1.0
     },
     "level":5,
