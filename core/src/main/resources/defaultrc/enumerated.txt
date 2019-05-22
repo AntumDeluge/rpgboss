@@ -93,6 +93,7 @@ battler/sys/basilisk.png
 battler/sys/bat.png
 battler/sys/blob.png
 battler/sys/dragon01.png
+battler/sys/dragon02.png
 battler/sys/dragon06.png
 battler/sys/dragon08.png
 battler/sys/dragon09.png
@@ -142,7 +143,6 @@ battler/sys/Redshrike/birdman.png
 battler/sys/Redshrike/blackcrow.png
 battler/sys/Redshrike/darklord.png
 battler/sys/Redshrike/darkoctopus.png
-battler/sys/Redshrike/dragon2.png
 battler/sys/Redshrike/dragon3.png
 battler/sys/Redshrike/dragon4.png
 battler/sys/Redshrike/dragon5.png
