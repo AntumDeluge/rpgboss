@@ -360,6 +360,10 @@ script/sys/start.js
 script/sys/store.js
 script/sys/timer.js
 script/sys/transitions.js
+sound/sys/menu-cancel.ogg
+sound/sys/menu-cursor.ogg
+sound/sys/menu-error.ogg
+sound/sys/menu-select.ogg
 sound/sys/opengameart-37hitspunches/hit02.ogg
 sound/sys/opengameart-37hitspunches/hit12.ogg
 sound/sys/opengameart-37hitspunches/hit33.ogg
@@ -391,10 +395,6 @@ sound/sys/opengameart-spell-sounds-starter-pack/moving.ogg
 sound/sys/opengameart-spell-sounds-starter-pack/warp2.ogg
 sound/sys/opengameart-spell-sounds-starter-pack/warp3.ogg
 sound/sys/opengameart-spell-sounds-starter-pack/zap.ogg
-sound/sys/rpgboss-menu/MenuCancel.ogg
-sound/sys/rpgboss-menu/MenuCannot.ogg
-sound/sys/rpgboss-menu/MenuCursor.ogg
-sound/sys/rpgboss-menu/MenuSelect.ogg
 spriteset/sys/!$chest-opengameart-Blarumyrran.png
 spriteset/sys/!object.png
 spriteset/sys/oga_vehicles.png

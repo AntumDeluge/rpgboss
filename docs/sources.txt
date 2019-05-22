@@ -21,6 +21,10 @@ landscape.png  PWL; CC0; https://opengameart.org/node/67217
 opengameart-37hitspunches/*              Independent.nu; CC0; https://opengameart.org/node/2558
 opengameart-rpg-sound-pack/*             artisticdude; CC0; https://opengameart.org/node/5311
 opengameart-spell-sounds-starter-pack/*  p0ss; CC0; https://opengameart.org/node/4991
+menu-cancel.ogg                          Leszek_Szary; CC0; https://freesound.org/s/171576/
+menu-cursor.ogg                          NenadSimic; CC0; https://freesound.org/s/171697/
+menu-error.ogg                           Leszek_Szary; CC0; https://freesound.org/s/171494/
+menu-select.ogg                          Leszek_Szary; CC0; https://freesound.org/s/171584/
 
 ### spriteset/sys/the_revolution/
 $base-*.png  Fabzy; CC BY-SA 3.0; https://opengameart.org/node/23315
