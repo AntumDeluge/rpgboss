@@ -10,6 +10,7 @@ battler/sys/
 basilisk.png   Blarumyrran; CC0: https://opengameart.org/node/3367
 blob.png       rvros; CC0; https://opengameart.org/node/81833
 dragon0*.png   Blarumyrran; CC0; https://opengameart.org/node/11988
+mushroom.png   OCAL; CC0; http://www.clker.com/clipart-26488.html
 
 ### faceset/sys/cabbit/
 base.*  Svetlana Kushnariova (Cabbit), Diamonddmgirl; CC0; https://opengameart.org/node/24944, https://opengameart.org/node/67861

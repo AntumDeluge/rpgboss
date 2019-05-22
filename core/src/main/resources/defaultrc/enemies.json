@@ -2726,7 +2726,7 @@
   {
     "name":"Mushroom1",
     "battler":{
-      "name":"sys/Public/mushroom1.png",
+      "name":"sys/mushroom.png",
       "scale":1.0
     },
     "level":5,

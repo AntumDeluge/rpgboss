@@ -151,12 +151,12 @@ battler/sys/MrBeast/ratcleric.png
 battler/sys/MrBeast/ratdoubleswd.png
 battler/sys/MrBeast/ratswdshd.png
 battler/sys/MrBeast/rattheif.png
+battler/sys/mushroom.png
 battler/sys/NormalArmy/KamaitachiGras.png
 battler/sys/NormalArmy/KamaitachiGras2.png
 battler/sys/NormalArmy/KamaitachiGras3.png
 battler/sys/P0ss/reaper.png
 battler/sys/Public/Lacriatura.png
-battler/sys/Public/mushroom1.png
 battler/sys/Ramtam/strangecreature1.png
 battler/sys/Ramtam/strangecreature2.png
 battler/sys/Redshrike/alienbug.png
