@@ -11,6 +11,7 @@ alien.png          Omni_Theorem; CC0; https://opengameart.org/node/17353
 basilisk.png       Blarumyrran; CC0: https://opengameart.org/node/3367
 bat.png            Mike Miller (MoikMellah); CC0; https://opengameart.org/node/6591
 blob.png           rvros; CC0; https://opengameart.org/node/81833
+dragon01.png       Cethiel; CC0; https://opengameart.org/node/96347
 dragon06.png       Carl Olsson (surt); CC0; https://opengameart.org/node/17910
 dragon[08-10].png  Blarumyrran; CC0; https://opengameart.org/node/11988
 flameminion*.png   Carl Olsson (surt); CC0; https://opengameart.org/node/13094
@@ -23,7 +24,6 @@ rat.png            OCAL; CC0; http://www.clker.com/clipart-mouse-2.html
 dragon9.png  MrBeast; CC BY 3.0; https://opengameart.org/node/13959
 
 ### battler/sys/Redshrike/
-dragon1.png  Stephen Challener (Redshrike); CC BY 3.0; https://opengameart.org/node/13959
 dragon2.png  Stephen Challener (Redshrike); CC BY 3.0; https://opengameart.org/node/13959
 dragon3.png  Stephen Challener (Redshrike); CC BY 3.0; https://opengameart.org/node/13959
 dragon4.png  Stephen Challener (Redshrike); CC BY 3.0; https://opengameart.org/node/13959

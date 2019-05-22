@@ -1254,7 +1254,7 @@
   {
     "name":"Dragon1",
     "battler":{
-      "name":"sys/Redshrike/dragon1.png",
+      "name":"sys/dragon01.png",
       "scale":1.0
     },
     "level":5,
