@@ -1114,29 +1114,6 @@
     ]
   },
   {
-    "name":"Wizard",
-    "battler":{
-      "name":"sys/Public/wizard.png",
-      "scale":1.0
-    },
-    "level":5,
-    "mhp":40,
-    "mmp":40,
-    "atk":10,
-    "spd":10,
-    "mag":10,
-    "arm":10,
-    "mre":10,
-    "expValue":100,
-    "attackSkillId":0,
-    "effects":[
-
-    ],
-    "skillIds":[
-
-    ]
-  },
-  {
     "name":"Alien1",
     "battler":{
       "name":"sys/C+/Alien.png",
@@ -1758,121 +1735,6 @@
     ]
   },
   {
-    "name":"Streammonster1",
-    "battler":{
-      "name":"sys/Public/streammonster1.png",
-      "scale":1.0
-    },
-    "level":5,
-    "mhp":40,
-    "mmp":40,
-    "atk":10,
-    "spd":10,
-    "mag":10,
-    "arm":10,
-    "mre":10,
-    "expValue":100,
-    "attackSkillId":0,
-    "effects":[
-
-    ],
-    "skillIds":[
-
-    ]
-  },
-  {
-    "name":"Streammonster2",
-    "battler":{
-      "name":"sys/Public/streammonster2.png",
-      "scale":1.0
-    },
-    "level":5,
-    "mhp":40,
-    "mmp":40,
-    "atk":10,
-    "spd":10,
-    "mag":10,
-    "arm":10,
-    "mre":10,
-    "expValue":100,
-    "attackSkillId":0,
-    "effects":[
-
-    ],
-    "skillIds":[
-
-    ]
-  },
-  {
-    "name":"Streammonster3",
-    "battler":{
-      "name":"sys/Public/streammonster3.png",
-      "scale":1.0
-    },
-    "level":5,
-    "mhp":40,
-    "mmp":40,
-    "atk":10,
-    "spd":10,
-    "mag":10,
-    "arm":10,
-    "mre":10,
-    "expValue":100,
-    "attackSkillId":0,
-    "effects":[
-
-    ],
-    "skillIds":[
-
-    ]
-  },
-  {
-    "name":"Streammonster4",
-    "battler":{
-      "name":"sys/Public/streammonster4.png",
-      "scale":1.0
-    },
-    "level":5,
-    "mhp":40,
-    "mmp":40,
-    "atk":10,
-    "spd":10,
-    "mag":10,
-    "arm":10,
-    "mre":10,
-    "expValue":100,
-    "attackSkillId":0,
-    "effects":[
-
-    ],
-    "skillIds":[
-
-    ]
-  },
-  {
-    "name":"Streammonster5",
-    "battler":{
-      "name":"sys/Public/streammonster5.png",
-      "scale":1.0
-    },
-    "level":5,
-    "mhp":40,
-    "mmp":40,
-    "atk":10,
-    "spd":10,
-    "mag":10,
-    "arm":10,
-    "mre":10,
-    "expValue":100,
-    "attackSkillId":0,
-    "effects":[
-
-    ],
-    "skillIds":[
-
-    ]
-  },
-  {
     "name":"Griffin",
     "battler":{
       "name":"sys/Momothecat/mohrthegriffin.png",
@@ -2425,29 +2287,6 @@
     ]
   },
   {
-    "name":"Birdy",
-    "battler":{
-      "name":"sys/Public/birdy.png",
-      "scale":1.0
-    },
-    "level":5,
-    "mhp":40,
-    "mmp":40,
-    "atk":10,
-    "spd":10,
-    "mag":10,
-    "arm":10,
-    "mre":10,
-    "expValue":100,
-    "attackSkillId":0,
-    "effects":[
-
-    ],
-    "skillIds":[
-
-    ]
-  },
-  {
     "name":"Blackspider",
     "battler":{
       "name":"sys/Surt/blackspider.png",
@@ -2590,29 +2429,6 @@
     "battler":{
       "name":"sys/Surt/bluespider.png",
       "scale":0.5
-    },
-    "level":5,
-    "mhp":40,
-    "mmp":40,
-    "atk":10,
-    "spd":10,
-    "mag":10,
-    "arm":10,
-    "mre":10,
-    "expValue":100,
-    "attackSkillId":0,
-    "effects":[
-
-    ],
-    "skillIds":[
-
-    ]
-  },
-  {
-    "name":"Demon1",
-    "battler":{
-      "name":"sys/Public/demon1.png",
-      "scale":1.0
     },
     "level":5,
     "mhp":40,
