@@ -10,9 +10,9 @@
       "step":1
     },
     "face":{
-      "faceset":"sys/mackie/face_m01a_1.png",
+      "faceset":"sys/cabbit/base.png",
       "faceX":0,
-      "faceY":1
+      "faceY":0
     },
     "initLevel":1,
     "maxLevel":50,
