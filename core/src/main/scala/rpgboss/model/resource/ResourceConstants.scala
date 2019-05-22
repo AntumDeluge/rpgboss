@@ -47,7 +47,7 @@ object ResourceConstants {
     windowIcon = "sys/icon.png",
 
     windowskin = "sys/LastPhantasmScanlines.png",
-    msgfont = "sys/VeraMono.ttf",
+    msgfont = "sys/Vegur-Regular.ttf",
     fontsize = 24,
 
     stringInputCharacters =
