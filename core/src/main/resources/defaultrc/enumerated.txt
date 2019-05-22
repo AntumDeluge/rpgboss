@@ -90,7 +90,6 @@ battlebg/sys/Nidhoggn/battleback8.png
 battlebg/sys/Nidhoggn/battleback9.png
 battler/sys/basilisk.png
 battler/sys/blob.png
-battler/sys/Buch/Overweightgnarl.png
 battler/sys/C+/Alien.png
 battler/sys/C+/Alien2.png
 battler/sys/C+/Alien3.png
