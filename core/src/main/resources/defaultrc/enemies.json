@@ -3322,52 +3322,6 @@
     ]
   },
   {
-    "name":"Firecreature",
-    "battler":{
-      "name":"sys/Benalene/firecreature.png",
-      "scale":0.25
-    },
-    "level":5,
-    "mhp":40,
-    "mmp":40,
-    "atk":10,
-    "spd":10,
-    "mag":10,
-    "arm":10,
-    "mre":10,
-    "expValue":100,
-    "attackSkillId":0,
-    "effects":[
-
-    ],
-    "skillIds":[
-
-    ]
-  },
-  {
-    "name":"Icecreature",
-    "battler":{
-      "name":"sys/Benalene/icecreature.png",
-      "scale":0.25
-    },
-    "level":5,
-    "mhp":40,
-    "mmp":40,
-    "atk":10,
-    "spd":10,
-    "mag":10,
-    "arm":10,
-    "mre":10,
-    "expValue":100,
-    "attackSkillId":0,
-    "effects":[
-
-    ],
-    "skillIds":[
-
-    ]
-  },
-  {
     "name":"Dogun",
     "battler":{
       "name":"sys/Killoverdrive/dogun.png",

@@ -89,8 +89,6 @@ battlebg/sys/Nidhoggn/battleback7.png
 battlebg/sys/Nidhoggn/battleback8.png
 battlebg/sys/Nidhoggn/battleback9.png
 battler/sys/basilisk.png
-battler/sys/Benalene/firecreature.png
-battler/sys/Benalene/icecreature.png
 battler/sys/blob.png
 battler/sys/Buch/Overweightgnarl.png
 battler/sys/C+/Alien.png
