@@ -19,6 +19,7 @@ landscape.png  PWL; CC0; https://opengameart.org/node/67217
 
 ### sound/sys/
 opengameart-37hitspunches/*              Independent.nu; CC0; https://opengameart.org/node/2558
+opengameart-rpg-sound-pack/*             artisticdude; CC0; https://opengameart.org/node/5311
 opengameart-spell-sounds-starter-pack/*  p0ss; CC0; https://opengameart.org/node/4991
 
 ### spriteset/sys/the_revolution/
