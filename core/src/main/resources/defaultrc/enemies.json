@@ -1873,52 +1873,6 @@
     ]
   },
   {
-    "name":"Strangecreature1",
-    "battler":{
-      "name":"sys/Ramtam/strangecreature1.png",
-      "scale":1.0
-    },
-    "level":5,
-    "mhp":40,
-    "mmp":40,
-    "atk":10,
-    "spd":10,
-    "mag":10,
-    "arm":10,
-    "mre":10,
-    "expValue":100,
-    "attackSkillId":0,
-    "effects":[
-
-    ],
-    "skillIds":[
-
-    ]
-  },
-  {
-    "name":"Strangecreature2",
-    "battler":{
-      "name":"sys/Ramtam/strangecreature2.png",
-      "scale":1.0
-    },
-    "level":5,
-    "mhp":40,
-    "mmp":40,
-    "atk":10,
-    "spd":10,
-    "mag":10,
-    "arm":10,
-    "mre":10,
-    "expValue":100,
-    "attackSkillId":0,
-    "effects":[
-
-    ],
-    "skillIds":[
-
-    ]
-  },
-  {
     "name":"Alienbug",
     "battler":{
       "name":"sys/Redshrike/alienbug.png",
