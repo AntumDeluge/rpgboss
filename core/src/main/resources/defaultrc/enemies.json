@@ -1645,7 +1645,7 @@
   {
     "name":"Dragon10",
     "battler":{
-      "name":"sys/Blarumyrran/dragon10.png",
+      "name":"sys/dragon10.png",
       "scale":1.0
     },
     "level":5,

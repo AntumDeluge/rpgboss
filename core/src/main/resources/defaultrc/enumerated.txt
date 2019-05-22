@@ -92,7 +92,6 @@ battler/sys/AncientBeast/cyberhound.png
 battler/sys/basilisk.png
 battler/sys/Benalene/firecreature.png
 battler/sys/Benalene/icecreature.png
-battler/sys/Blarumyrran/dragon10.png
 battler/sys/Buch/Overweightgnarl.png
 battler/sys/C+/Alien.png
 battler/sys/C+/Alien2.png
