@@ -11,6 +11,7 @@ basilisk.png      Blarumyrran; CC0: https://opengameart.org/node/3367
 blob.png          rvros; CC0; https://opengameart.org/node/81833
 dragon0*.png      Blarumyrran; CC0; https://opengameart.org/node/11988
 flameminion*.png  Carl Olsson (Surt); CC0; https://opengameart.org/node/13094
+golem.png         OCAL; CC0; http://www.clker.com/clipart-stone-giant.html
 lacriatura.png    OCAL; CC0; http://www.clker.com/clipart-demon.html
 mushroom.png      OCAL; CC0; http://www.clker.com/clipart-26488.html
 

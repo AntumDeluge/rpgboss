@@ -102,6 +102,7 @@ battler/sys/flameminion3.png
 battler/sys/Godlesshenk/Bigrat.png
 battler/sys/Godlesshenk/Deadlyalienbug.png
 battler/sys/Godlesshenk/Gohomewithenemyhead.png
+battler/sys/golem.png
 battler/sys/Isaacbird/blade.png
 battler/sys/Isaacbird/theexecutor.png
 battler/sys/Isaacbird/warlock.png
@@ -180,7 +181,6 @@ battler/sys/Redshrike/goblinshaman.png
 battler/sys/Redshrike/goblinswdsld.png
 battler/sys/Redshrike/goblinwat.png
 battler/sys/Redshrike/goblinwiz.png
-battler/sys/Redshrike/golem.png
 battler/sys/Redshrike/greenhunch.png
 battler/sys/Redshrike/greenlizardlike.png
 battler/sys/Redshrike/hogaxe.png

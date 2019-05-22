@@ -518,7 +518,7 @@
   {
     "name":"Golem",
     "battler":{
-      "name":"sys/Redshrike/golem.png",
+      "name":"sys/golem.png",
       "scale":1.0
     },
     "level":5,
