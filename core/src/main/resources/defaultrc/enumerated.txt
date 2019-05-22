@@ -144,7 +144,6 @@ battler/sys/mushroom.png
 battler/sys/NormalArmy/KamaitachiGras.png
 battler/sys/NormalArmy/KamaitachiGras2.png
 battler/sys/NormalArmy/KamaitachiGras3.png
-battler/sys/P0ss/reaper.png
 battler/sys/Ramtam/strangecreature1.png
 battler/sys/Ramtam/strangecreature2.png
 battler/sys/Redshrike/alienbug.png
