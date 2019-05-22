@@ -33,7 +33,7 @@ object ResourceConstants {
     startingLoc = MapLoc(RpgMap.generateName(1), 5.5f, 5.5f),
     startingParty = Array(0),
 
-    titlePic = "sys/LordSpirit.jpg",
+    titlePic = "sys/landscape.png",
     titleMusic =
       Some(SoundSpec("sys/sean_m_stephens/TitleMoon.mid")),
 

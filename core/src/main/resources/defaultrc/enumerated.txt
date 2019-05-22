@@ -325,7 +325,7 @@ music/sys/sean_m_stephens/World3.mid
 music/sys/weather/rain.ogg
 picture/sys/GameOver.png
 picture/sys/icon.png
-picture/sys/LordSpirit.jpg
+picture/sys/landscape.png
 picture/sys/splash.jpg
 picture/sys/weather/rain/0180.png
 picture/sys/weather/rain/0181.png
