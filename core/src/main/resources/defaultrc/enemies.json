@@ -2312,7 +2312,7 @@
   {
     "name":"Blob",
     "battler":{
-      "name":"sys/Public/blob.png",
+      "name":"sys/blob.png",
       "scale":1.0
     },
     "level":5,

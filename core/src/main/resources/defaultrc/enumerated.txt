@@ -92,6 +92,7 @@ battler/sys/AncientBeast/cyberhound.png
 battler/sys/basilisk.png
 battler/sys/Benalene/firecreature.png
 battler/sys/Benalene/icecreature.png
+battler/sys/blob.png
 battler/sys/Buch/Overweightgnarl.png
 battler/sys/C+/Alien.png
 battler/sys/C+/Alien2.png
@@ -154,7 +155,6 @@ battler/sys/NormalArmy/KamaitachiGras.png
 battler/sys/NormalArmy/KamaitachiGras2.png
 battler/sys/NormalArmy/KamaitachiGras3.png
 battler/sys/P0ss/reaper.png
-battler/sys/Public/blob.png
 battler/sys/Public/Lacriatura.png
 battler/sys/Public/mushroom1.png
 battler/sys/Ramtam/strangecreature1.png
