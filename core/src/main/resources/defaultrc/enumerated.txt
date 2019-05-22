@@ -133,6 +133,7 @@ battler/sys/Killoverdrive/Newdron.png
 battler/sys/Killoverdrive/templar.png
 battler/sys/Kirara/eaglel.png
 battler/sys/Kirara/eagler.png
+battler/sys/lacriatura.png
 battler/sys/MinusCreate/TokaTokaReis.png
 battler/sys/MinusCreate/TokaTokaReis2.png
 battler/sys/MinusCreate/TokaTokaReis3.png
@@ -156,7 +157,6 @@ battler/sys/NormalArmy/KamaitachiGras.png
 battler/sys/NormalArmy/KamaitachiGras2.png
 battler/sys/NormalArmy/KamaitachiGras3.png
 battler/sys/P0ss/reaper.png
-battler/sys/Public/Lacriatura.png
 battler/sys/Ramtam/strangecreature1.png
 battler/sys/Ramtam/strangecreature2.png
 battler/sys/Redshrike/alienbug.png

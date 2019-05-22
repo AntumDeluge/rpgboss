@@ -2036,7 +2036,7 @@
   {
     "name":"Lacriatura",
     "battler":{
-      "name":"sys/Public/Lacriatura.png",
+      "name":"sys/lacriatura.png",
       "scale":1.0
     },
     "level":5,
