@@ -17,6 +17,9 @@ desert.png     PWL; CC0; https://opengameart.org/node/67420
 game_over.*    LordNeo, Sora Sagano, Jordan Irwin (AntumDeluge); CC0; https://opengameart.org/node/97343
 landscape.png  PWL; CC0; https://opengameart.org/node/67217
 
+### sound/sys/
+opengameart-37hitspunches/*  Independent.nu; CC0; https://opengameart.org/node/2558
+
 ### spriteset/sys/the_revolution/
 $base-*.png  Fabzy; CC BY-SA 3.0; https://opengameart.org/node/23315
 
