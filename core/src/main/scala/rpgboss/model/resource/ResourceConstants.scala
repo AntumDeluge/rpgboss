@@ -18,7 +18,7 @@ object ResourceConstants {
   def systemStartScript = "sys/start.js"
   def systemStartCall = "start()"
 
-  def defaultBattleback = "sys/Etolier/01sougen.jpg"
+  def defaultBattleback = "sys/Nidhoggn/battleback1.png"
   def battlerTarget = "sys/Redshrike/goblinrider.png"
 
   def defaultBattleMusic =
