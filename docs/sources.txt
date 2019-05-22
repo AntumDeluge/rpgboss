@@ -1,0 +1,24 @@
+## Built-in Asset Sources
+
+### autotile/sys/
+autotile-1.*  g4mersylver; CC0; https://opengameart.org/node/63481
+
+### faceset/sys/cabbit/
+base.*  Svetlana Kushnariova (Cabbit), Diamonddmgirl; CC0; https://opengameart.org/node/24944, https://opengameart.org/node/67861
+
+### msgfont/sys/
+Aileron-Regular.ttf  Sora Sagano; CC0; https://fontlibrary.org/en/font/aileron
+PixelOperator*.ttf   Jayvee Enaguas (HarvettFox96); CC0; https://fontlibrary.org/en/font/pixel-operator
+Seshat-Regular.ttf   Sora Sagano; CC0; https://fontlibrary.org/en/font/seshat-regular
+Vegur-Regular.ttf    Sora Sagano; CC0; https://fontlibrary.org/en/font/vegur
+
+### picture/sys/
+desert.png     PWL; CC0; https://opengameart.org/node/67420
+game_over.*    LordNeo, Sora Sagano, Jordan Irwin (AntumDeluge); CC0; https://opengameart.org/node/97343
+landscape.png  PWL; CC0; https://opengameart.org/node/67217
+
+### spriteset/sys/the_revolution/
+$base-*.png  Fabzy; CC BY-SA 3.0; https://opengameart.org/node/23315
+
+### windowskin/sys/
+turning_polyhedron_mod*  acme_pjz, INFECTiON656; CC0; https://opengameart.org/node/28023, https://opengameart.org/node/40584
