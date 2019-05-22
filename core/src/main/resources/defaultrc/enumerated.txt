@@ -117,9 +117,6 @@ battler/sys/Katarzyna/goldenwyrm.png
 battler/sys/Katarzyna/impaler.png
 battler/sys/Katarzyna/magmaspawn.png
 battler/sys/Katarzyna/volpyr.png
-battler/sys/Killoverdrive/dogun.png
-battler/sys/Killoverdrive/Newdron.png
-battler/sys/Killoverdrive/templar.png
 battler/sys/Kirara/eaglel.png
 battler/sys/Kirara/eagler.png
 battler/sys/lacriatura.png
