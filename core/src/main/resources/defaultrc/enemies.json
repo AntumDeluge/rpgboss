@@ -2,7 +2,7 @@
   {
     "name":"Basilisk",
     "battler":{
-      "name":"sys/Public/basilisk.png",
+      "name":"sys/basilisk.png",
       "scale":1.5
     },
     "level":50,

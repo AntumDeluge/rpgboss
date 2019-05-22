@@ -6,6 +6,9 @@ autotile-1.*  g4mersylver; CC0; https://opengameart.org/node/63481
 battlebg/sys/Nidhoggn/
 *  Gabriel de Aguiar (Nidhoggn); CC0; https://opengameart.org/node/79322
 
+battler/sys/
+basilisk.png   Blarumyrran; CC0: https://opengameart.org/node/3367
+
 ### faceset/sys/cabbit/
 base.*  Svetlana Kushnariova (Cabbit), Diamonddmgirl; CC0; https://opengameart.org/node/24944, https://opengameart.org/node/67861
 

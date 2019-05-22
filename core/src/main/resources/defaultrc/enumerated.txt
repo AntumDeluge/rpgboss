@@ -89,6 +89,7 @@ battlebg/sys/Nidhoggn/battleback7.png
 battlebg/sys/Nidhoggn/battleback8.png
 battlebg/sys/Nidhoggn/battleback9.png
 battler/sys/AncientBeast/cyberhound.png
+battler/sys/basilisk.png
 battler/sys/Benalene/firecreature.png
 battler/sys/Benalene/icecreature.png
 battler/sys/Blarumyrran/dragon10.png
@@ -152,7 +153,6 @@ battler/sys/NormalArmy/KamaitachiGras.png
 battler/sys/NormalArmy/KamaitachiGras2.png
 battler/sys/NormalArmy/KamaitachiGras3.png
 battler/sys/P0ss/reaper.png
-battler/sys/Public/basilisk.png
 battler/sys/Public/birdy.png
 battler/sys/Public/blob.png
 battler/sys/Public/demon1.png
