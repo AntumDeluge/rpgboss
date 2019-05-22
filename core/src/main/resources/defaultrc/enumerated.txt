@@ -140,11 +140,6 @@ battler/sys/MinusCreate/UnknownPig.png
 battler/sys/MinusCreate/UnknownPig2.png
 battler/sys/MinusCreate/UnknownPig3.png
 battler/sys/MrBeast/dragon9.png
-battler/sys/MrBeast/ratarcher.png
-battler/sys/MrBeast/ratcleric.png
-battler/sys/MrBeast/ratdoubleswd.png
-battler/sys/MrBeast/ratswdshd.png
-battler/sys/MrBeast/rattheif.png
 battler/sys/mushroom.png
 battler/sys/NormalArmy/KamaitachiGras.png
 battler/sys/NormalArmy/KamaitachiGras2.png
