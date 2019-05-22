@@ -2266,7 +2266,7 @@
   {
     "name":"Flameminion1",
     "battler":{
-      "name":"sys/Surt/flameminion.png",
+      "name":"sys/flameminion.png",
       "scale":0.5
     },
     "level":5,
@@ -2289,7 +2289,7 @@
   {
     "name":"Flameminion2",
     "battler":{
-      "name":"sys/Surt/flameminion2.png",
+      "name":"sys/flameminion2.png",
       "scale":0.5
     },
     "level":5,
@@ -2312,7 +2312,7 @@
   {
     "name":"Flameminion3",
     "battler":{
-      "name":"sys/Surt/flameminion3.png",
+      "name":"sys/flameminion3.png",
       "scale":0.5
     },
     "level":5,

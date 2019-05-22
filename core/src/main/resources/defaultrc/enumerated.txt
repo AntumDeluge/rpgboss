@@ -96,6 +96,9 @@ battler/sys/C+/Alien3.png
 battler/sys/dragon08.png
 battler/sys/dragon09.png
 battler/sys/dragon10.png
+battler/sys/flameminion.png
+battler/sys/flameminion2.png
+battler/sys/flameminion3.png
 battler/sys/Godlesshenk/Bigrat.png
 battler/sys/Godlesshenk/Deadlyalienbug.png
 battler/sys/Godlesshenk/Gohomewithenemyhead.png
@@ -228,9 +231,6 @@ battler/sys/Surt/bluesnake.png
 battler/sys/Surt/bluespider.png
 battler/sys/Surt/demonminion.png
 battler/sys/Surt/dragon6.png
-battler/sys/Surt/flameminion.png
-battler/sys/Surt/flameminion2.png
-battler/sys/Surt/flameminion3.png
 battler/sys/Surt/Ghost1.png
 battler/sys/Surt/greenmushroomkid.png
 battler/sys/Surt/greenmushroomman.png
