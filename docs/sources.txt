@@ -7,6 +7,7 @@ autotile-1.*  g4mersylver; CC0; https://opengameart.org/node/63481
 *  Gabriel de Aguiar (Nidhoggn); CC0; https://opengameart.org/node/79322
 
 ### battler/sys/
+alien.png         Omni_Theorem; CC0; https://opengameart.org/node/17353
 basilisk.png      Blarumyrran; CC0: https://opengameart.org/node/3367
 bat.png           Mike Miller (MoikMellah); CC0; https://opengameart.org/node/6591
 blob.png          rvros; CC0; https://opengameart.org/node/81833

@@ -1001,53 +1001,7 @@
   {
     "name":"Alien1",
     "battler":{
-      "name":"sys/C+/Alien.png",
-      "scale":1.0
-    },
-    "level":5,
-    "mhp":40,
-    "mmp":40,
-    "atk":10,
-    "spd":10,
-    "mag":10,
-    "arm":10,
-    "mre":10,
-    "expValue":100,
-    "attackSkillId":0,
-    "effects":[
-
-    ],
-    "skillIds":[
-
-    ]
-  },
-  {
-    "name":"Alien2",
-    "battler":{
-      "name":"sys/C+/Alien2.png",
-      "scale":1.0
-    },
-    "level":5,
-    "mhp":40,
-    "mmp":40,
-    "atk":10,
-    "spd":10,
-    "mag":10,
-    "arm":10,
-    "mre":10,
-    "expValue":100,
-    "attackSkillId":0,
-    "effects":[
-
-    ],
-    "skillIds":[
-
-    ]
-  },
-  {
-    "name":"Alien3",
-    "battler":{
-      "name":"sys/C+/Alien3.png",
+      "name":"sys/alien.png",
       "scale":1.0
     },
     "level":5,

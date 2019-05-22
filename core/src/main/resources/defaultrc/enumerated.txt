@@ -88,12 +88,10 @@ battlebg/sys/Nidhoggn/battleback6.png
 battlebg/sys/Nidhoggn/battleback7.png
 battlebg/sys/Nidhoggn/battleback8.png
 battlebg/sys/Nidhoggn/battleback9.png
+battler/sys/alien.png
 battler/sys/basilisk.png
 battler/sys/bat.png
 battler/sys/blob.png
-battler/sys/C+/Alien.png
-battler/sys/C+/Alien2.png
-battler/sys/C+/Alien3.png
 battler/sys/dragon08.png
 battler/sys/dragon09.png
 battler/sys/dragon10.png
