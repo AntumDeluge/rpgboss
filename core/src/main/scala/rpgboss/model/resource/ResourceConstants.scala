@@ -22,7 +22,7 @@ object ResourceConstants {
   def battlerTarget = "sys/Redshrike/goblinrider.png"
 
   def defaultBattleMusic =
-    Some(SoundSpec("sys/sean_m_stephens/Battle1.mid"))
+    Some(SoundSpec("sys/random_battle.ogg"))
 
   def defaultTilesets = Array[String]()
 
@@ -35,11 +35,11 @@ object ResourceConstants {
 
     titlePic = "sys/landscape.png",
     titleMusic =
-      Some(SoundSpec("sys/sean_m_stephens/TitleMoon.mid")),
+      Some(SoundSpec("sys/intro-cue-norm.ogg")),
 
     gameOverPic = "sys/game_over.png",
     gameOverMusic =
-      Some(SoundSpec("sys/aaron_mcdonald/Macbeth - Cue 2.mid")),
+      Some(SoundSpec("sys/game_over.ogg")),
 
     screenW = 640,
     screenH = 480,

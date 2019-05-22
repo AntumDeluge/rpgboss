@@ -286,42 +286,12 @@ msgfont/sys/PixelOperator.ttf
 msgfont/sys/PixelOperatorMono.ttf
 msgfont/sys/Seshat-Regular.ttf
 msgfont/sys/Vegur-Regular.ttf
-music/sys/aaron_mcdonald/A Midsummer Night's Dream - A Duel Comences.mid
-music/sys/aaron_mcdonald/A Midsummer Night's Dream - A Forest People.mid
-music/sys/aaron_mcdonald/A Midsummer Night's Dream - Cue 1.mid
-music/sys/aaron_mcdonald/A Midsummer Night's Dream - Cue 2.mid
-music/sys/aaron_mcdonald/A Midsummer Night's Dream - Magic and Wonder.mid
-music/sys/aaron_mcdonald/A Midsummer Night's Dream - They Tried to Love and They Could Not.mid
-music/sys/aaron_mcdonald/Journey to the East - Cue 1.mid
-music/sys/aaron_mcdonald/Journey to the East - Cue 2.mid
-music/sys/aaron_mcdonald/Journey to the East - Ghost Dance.mid
-music/sys/aaron_mcdonald/Journey to the East - Lost in the Fog.mid
-music/sys/aaron_mcdonald/Journey to the East - Things in the Light.mid
-music/sys/aaron_mcdonald/Journey to the East - Town of Legend.mid
-music/sys/aaron_mcdonald/Macbeth - A Drowning King.mid
-music/sys/aaron_mcdonald/Macbeth - A Wheeping Kingdom.mid
-music/sys/aaron_mcdonald/Macbeth - Cue 1.mid
-music/sys/aaron_mcdonald/Macbeth - Cue 2.mid
-music/sys/aaron_mcdonald/Macbeth - The Wrath of Fate.mid
-music/sys/aaron_mcdonald/Macbeth - To War.mid
-music/sys/aaron_mcdonald/Titus Andronicus - An Affinity for Blood (piano version).mid
-music/sys/aaron_mcdonald/Titus Andronicus - An Affinity for Blood.mid
-music/sys/aaron_mcdonald/Titus Andronicus - Cue 1.mid
-music/sys/aaron_mcdonald/Titus Andronicus - Cue 2.mid
-music/sys/aaron_mcdonald/Titus Andronicus - Madness Reigns.mid
-music/sys/aaron_mcdonald/Titus Andronicus - Villianous Villians Doing Doubious Deeds.mid
-music/sys/aaron_mcdonald/Titus Andronicus - Who Is Burried Here.mid
-music/sys/sean_m_stephens/Battle1.mid
-music/sys/sean_m_stephens/Battle2.mid
-music/sys/sean_m_stephens/Battle3.mid
-music/sys/sean_m_stephens/Choral.mid
-music/sys/sean_m_stephens/Haven.mid
-music/sys/sean_m_stephens/TitleMoon.mid
-music/sys/sean_m_stephens/Town1.mid
-music/sys/sean_m_stephens/Town2.mid
-music/sys/sean_m_stephens/World1.mid
-music/sys/sean_m_stephens/World2.mid
-music/sys/sean_m_stephens/World3.mid
+music/sys/boss_battle_#2_metal_loop.ogg
+music/sys/boss_battle_#2_metal_opening.ogg
+music/sys/castle_town.mid
+music/sys/game_over.ogg
+music/sys/intro-cue-norm.ogg
+music/sys/random_battle.ogg
 music/sys/weather/rain.ogg
 picture/sys/desert.png
 picture/sys/game_over.png
