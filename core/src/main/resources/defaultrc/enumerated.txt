@@ -89,6 +89,7 @@ battlebg/sys/Nidhoggn/battleback7.png
 battlebg/sys/Nidhoggn/battleback8.png
 battlebg/sys/Nidhoggn/battleback9.png
 battler/sys/basilisk.png
+battler/sys/bat.png
 battler/sys/blob.png
 battler/sys/C+/Alien.png
 battler/sys/C+/Alien2.png
@@ -101,7 +102,6 @@ battler/sys/flameminion2.png
 battler/sys/flameminion3.png
 battler/sys/golem.png
 battler/sys/Junkie/assassin.png
-battler/sys/Junkie/bat.png
 battler/sys/Junkie/catoblepas.png
 battler/sys/Junkie/evilsword.png
 battler/sys/Junkie/fireball.png

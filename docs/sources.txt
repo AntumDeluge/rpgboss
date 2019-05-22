@@ -8,6 +8,7 @@ autotile-1.*  g4mersylver; CC0; https://opengameart.org/node/63481
 
 ### battler/sys/
 basilisk.png      Blarumyrran; CC0: https://opengameart.org/node/3367
+bat.png           Mike Miller (MoikMellah); CC0; https://opengameart.org/node/6591
 blob.png          rvros; CC0; https://opengameart.org/node/81833
 dragon0*.png      Blarumyrran; CC0; https://opengameart.org/node/11988
 flameminion*.png  Carl Olsson (Surt); CC0; https://opengameart.org/node/13094

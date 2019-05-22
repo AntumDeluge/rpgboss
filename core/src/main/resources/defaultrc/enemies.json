@@ -2174,8 +2174,8 @@
   {
     "name":"Bat",
     "battler":{
-      "name":"sys/Junkie/bat.png",
-      "scale":0.5
+      "name":"sys/bat.png",
+      "scale":1.0
     },
     "level":5,
     "mhp":40,
