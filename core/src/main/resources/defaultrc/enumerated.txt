@@ -117,8 +117,6 @@ battler/sys/Katarzyna/goldenwyrm.png
 battler/sys/Katarzyna/impaler.png
 battler/sys/Katarzyna/magmaspawn.png
 battler/sys/Katarzyna/volpyr.png
-battler/sys/Kirara/eaglel.png
-battler/sys/Kirara/eagler.png
 battler/sys/lacriatura.png
 battler/sys/MinusCreate/TokaTokaReis.png
 battler/sys/MinusCreate/TokaTokaReis2.png
