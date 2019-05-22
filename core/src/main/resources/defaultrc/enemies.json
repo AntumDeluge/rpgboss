@@ -1369,7 +1369,7 @@
   {
     "name":"Dragon6",
     "battler":{
-      "name":"sys/Surt/dragon6.png",
+      "name":"sys/dragon06.png",
       "scale":1.0
     },
     "level":5,

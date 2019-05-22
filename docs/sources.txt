@@ -7,16 +7,17 @@ autotile-1.*  g4mersylver; CC0; https://opengameart.org/node/63481
 *  Gabriel de Aguiar (Nidhoggn); CC0; https://opengameart.org/node/79322
 
 ### battler/sys/
-alien.png         Omni_Theorem; CC0; https://opengameart.org/node/17353
-basilisk.png      Blarumyrran; CC0: https://opengameart.org/node/3367
-bat.png           Mike Miller (MoikMellah); CC0; https://opengameart.org/node/6591
-blob.png          rvros; CC0; https://opengameart.org/node/81833
-dragon0*.png      Blarumyrran; CC0; https://opengameart.org/node/11988
-flameminion*.png  Carl Olsson (Surt); CC0; https://opengameart.org/node/13094
-golem.png         OCAL; CC0; http://www.clker.com/clipart-stone-giant.html
-lacriatura.png    OCAL; CC0; http://www.clker.com/clipart-demon.html
-mushroom.png      OCAL; CC0; http://www.clker.com/clipart-26488.html
-rat.png           OCAL; CC0; http://www.clker.com/clipart-mouse-2.html
+alien.png          Omni_Theorem; CC0; https://opengameart.org/node/17353
+basilisk.png       Blarumyrran; CC0: https://opengameart.org/node/3367
+bat.png            Mike Miller (MoikMellah); CC0; https://opengameart.org/node/6591
+blob.png           rvros; CC0; https://opengameart.org/node/81833
+dragon06.png       Carl Olsson (surt); CC0; https://opengameart.org/node/17910
+dragon[08-10].png  Blarumyrran; CC0; https://opengameart.org/node/11988
+flameminion*.png   Carl Olsson (surt); CC0; https://opengameart.org/node/13094
+golem.png          OCAL; CC0; http://www.clker.com/clipart-stone-giant.html
+lacriatura.png     OCAL; CC0; http://www.clker.com/clipart-demon.html
+mushroom.png       OCAL; CC0; http://www.clker.com/clipart-26488.html
+rat.png            OCAL; CC0; http://www.clker.com/clipart-mouse-2.html
 
 ### battler/sys/MrBeast/
 dragon9.png  MrBeast; CC BY 3.0; https://opengameart.org/node/13959

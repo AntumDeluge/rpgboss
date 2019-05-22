@@ -92,6 +92,7 @@ battler/sys/alien.png
 battler/sys/basilisk.png
 battler/sys/bat.png
 battler/sys/blob.png
+battler/sys/dragon06.png
 battler/sys/dragon08.png
 battler/sys/dragon09.png
 battler/sys/dragon10.png
@@ -192,7 +193,6 @@ battler/sys/Redshrike/wasp.png
 battler/sys/Redshrike/xeno.png
 battler/sys/Richtaur/Trex.png
 battler/sys/Sharm/dragon11.png
-battler/sys/Surt/dragon6.png
 battler/sys/Zabin/dragon7.png
 faceset/sys/cabbit/base.png
 iconset/sys/420__Pixel_Art__Icons_for_RPG_by_Ails.png
